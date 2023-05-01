@@ -1,0 +1,38 @@
+Current time: 1682963950
+New analyzer is created
+
+Current time: 1682964010
+Queue size: 0 elements
+Stats:
+Priority	%
+Total size of the queue: 0Kb
+The biggest difference between time expired: 0s
+
+Current time: 1682964070
+Queue size: 0 elements
+Stats:
+Priority	%
+Total size of the queue: 0Kb
+The biggest difference between time expired: 0s
+
+Current time: 1682964130
+Queue size: 0 elements
+Stats:
+Priority	%
+Total size of the queue: 0Kb
+The biggest difference between time expired: 0s
+
+Current time: 1682964190
+Queue size: 0 elements
+Stats:
+Priority	%
+Total size of the queue: 0Kb
+The biggest difference between time expired: 0s
+
+Current time: 1682964250
+Queue size: 0 elements
+Stats:
+Priority	%
+Total size of the queue: 0Kb
+The biggest difference between time expired: 0s
+
